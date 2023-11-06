@@ -1,0 +1,16 @@
+{
+"companyName": "Zigurous",
+"productName": "Flappy Bird",
+"productVersion": "0.1",
+"dataUrl": "rrr.data.unityweb",
+"wasmCodeUrl": "rrr.wasm.code.unityweb",
+"wasmFrameworkUrl": "rrr.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.34f1"
+}
